@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Monoton&family=Open+Sans:wght@400;700&family=Playfair+Display+SC:wght@400;700&family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Work+Sans:wght@400;700&display=swap");
+
+.bg-container{
+    background-color: #660aa3;
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+}
+.timer-container {
+    margin-left: 350px;
+    margin-right: 350px;
+   
+    margin-bottom: 30px;
+  text-align: center;
+  background-color: #d0d539;
+  height: 100vh;
+  padding: 20px;
+ 
+}
+
+.timer-display {
+
+  color: white;
+  font-size: 50px;
+}
+
+.user-input {
+  padding-top: 40px;
+  text-align: center;
+  border-width: 0px;
+  border-radius: 4px;
+  padding: 6px;
+}
+
+.bomb-image {
+    padding-top: 40px;
+  width: 150px;
+  margin-top: 40px;
+}
